@@ -19,7 +19,6 @@ Database: MySQL
 
 🚀 Cách cài đặt & chạy dự án
 Yêu cầu
-MySQL Workbench (hoặc công cụ quản lý MySQL khác)
 Spring Tool Suite / IntelliJ / Eclipse (có hỗ trợ Spring)
 Visual Studio Code
 
@@ -30,8 +29,8 @@ Run project để khởi động server
 
 Khởi động Frontend
 Mở project frontend bằng VSCode
-Chạy npm install trong terminal
-Chạy npm run dev và truy cập tại http://localhost:3000
+Chạy 'npm install' trong terminal
+Chạy 'npm run dev' và truy cập tại http://localhost:3000
 
 🔑 Tài khoản Demo
 Hệ thống không phân quyền nên có thể đăng ký tài khoản mới và thực hiện toàn bộ chức năng.
