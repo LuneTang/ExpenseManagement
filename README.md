@@ -1,5 +1,5 @@
 💰 Hệ thống Quản lý Chi tiêu Cá nhân
-Mô tả
+
 Đây là một dự án Full-Stack Web Application giúp người dùng quản lý toàn diện các hoạt động tài chính cá nhân. Ứng dụng hỗ trợ theo dõi thu nhập, chi tiêu, thiết lập hạn mức cho từng danh mục, cũng như quản lý nguồn tiền (tiền mặt, ngân hàng, ví điện tử).
 
 Chức năng chính
